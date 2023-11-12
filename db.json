@@ -1,0 +1,24 @@
+{
+  "carItems": [
+      {
+          "carId": "car1",
+          "image": "/Images/car1/pic1.jpeg",
+          "title": "Hyundai Verna SX",
+          "purchase_year": "2013",
+          "type": "Petrol",
+          "price": "4,90,000",
+          "rto_location": "Ludhiana",
+          "ownership_status": "Second Owner"
+      },
+      {
+          "carId": "car2",
+          "image": "/Images/car2/pic1.jpeg",
+          "title": "Swift Vdi",
+          "purchase_year": "2019",
+          "type": "Petrol",
+          "price": "6,80,000",
+          "rto_location": "Ludhiana",
+          "ownership_status": "First Owner"
+      }
+  ]
+}
